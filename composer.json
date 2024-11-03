@@ -1,0 +1,20 @@
+{
+  "name": "mendesalexandre/pix-sicredi",
+  "authors": [
+    {
+      "name": "Alexandre Teixeira Mendes",
+      "email": "alex.fnvip@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MendesAlexandre\\PixSicredi\\": "src/"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "require-dev": {
+    "laravel/laravel": "^11.3"
+  }
+}
